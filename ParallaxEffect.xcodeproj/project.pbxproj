@@ -11,6 +11,7 @@
 		AD12A6A52C49A5A9002DEDC2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD12A6A42C49A5A9002DEDC2 /* ContentView.swift */; };
 		AD12A6A72C49A5AC002DEDC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD12A6A62C49A5AC002DEDC2 /* Assets.xcassets */; };
 		AD12A6AB2C49A5AC002DEDC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD12A6AA2C49A5AC002DEDC2 /* Preview Assets.xcassets */; };
+		AD12A6B22C49A6A7002DEDC2 /* MoviePosterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD12A6B12C49A6A7002DEDC2 /* MoviePosterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		AD12A6A62C49A5AC002DEDC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD12A6A82C49A5AC002DEDC2 /* ParallaxEffect.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ParallaxEffect.entitlements; sourceTree = "<group>"; };
 		AD12A6AA2C49A5AC002DEDC2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD12A6B12C49A6A7002DEDC2 /* MoviePosterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviePosterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				AD12A6A22C49A5A9002DEDC2 /* ParallaxEffectApp.swift */,
+				AD12A6B12C49A6A7002DEDC2 /* MoviePosterView.swift */,
 				AD12A6A42C49A5A9002DEDC2 /* ContentView.swift */,
 				AD12A6A62C49A5AC002DEDC2 /* Assets.xcassets */,
 				AD12A6A82C49A5AC002DEDC2 /* ParallaxEffect.entitlements */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD12A6A52C49A5A9002DEDC2 /* ContentView.swift in Sources */,
+				AD12A6B22C49A6A7002DEDC2 /* MoviePosterView.swift in Sources */,
 				AD12A6A32C49A5A9002DEDC2 /* ParallaxEffectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
